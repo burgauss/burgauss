@@ -2,7 +2,12 @@
 
 QA Engineer with a background in Mechatronics engineering and experience in software development and automated testing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Burgos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-antonio-burgos-coronado-60715789/)
+<div align=center>
+ <a href="https://www.linkedin.com/burgauss/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="mailto:burgos.135@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="https://twitter.com/burgauss" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
+</div>
 
 ## My Experience:
 - QA testing
