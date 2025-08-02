@@ -7,6 +7,9 @@ QA Engineer with a background in Mechatronics engineering and experience in soft
 <a href="mailto:burgos.135@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://twitter.com/burgauss" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
+ <a href="https://discord.com/users/burgos_90136" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
+</a>
 </div>
 
 ## My Experience:
